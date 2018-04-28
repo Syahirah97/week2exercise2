@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+
+    <title>Exercise Week 2</title>
+  </head>
+  <body>
+    <div class="container">
+       <h4>Hello, world!<small> Secondary Text </small></h4>
+
+      <p class ="lead">
+        <br>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </br>
+      </p>
+    
+    <br>
+       <p>
+         <mark>
+            <strong> Lorem ipsum dolor sit amet,</strong></mark> consectetur adipiscing elit, sed do eiusmod tempor incididunt <del> ut labore et dolore magna aliqua.</del> Ut enim ad minim veniam,quis  exercitationm ullamco laboris nisi  ut aliquip ex ea commodo consequat. Duis aute irure dolor inreprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+       </p>
+    </br>
+
+
+    <p class="text-left">Left aligned text.</p>
+    <p class ="text-right">Center aligned text.</p>
+    <P class ="text-center">Right aligned text</P>
+    <p class="text-justify">Justified text.</p>
+    <p class="text-nowrap">No wrap text.</p>
+
+    <p class="text-right">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
+    <p class ="text-right text-secondary">
+       <em>
+          Quote by John Doe ---
+       </em>
+    </p>
+      
+    <ul class ="list-unstyled"> 
+         <li>One</li>
+         <li>Two</li>
+         <li>Three</li>
+         <li>Four</li>
+         <li>Five</li>
+       </ul>
+
+    <ul class ="list-unstyled"> 
+        <li class ="list-inline-item">One</li>
+        <li class ="list-inline-item">Two</li>
+        <li class ="list-inline-item">Three</li>
+        <li class ="list-inline-item">Four</li>
+        <li class ="list-inline-item">Five</li>
+    </ul>
+
+   <p>
+     <code>&lt;h1/&gt;</code> Heading Text &lt;/h1&gt;</p>
+
+    <p> Change directory with 
+         <kbd> cd </kbd>  
+            To edit settings, press 
+         <kbd> ctrl + , </kbd> 
+    </p>
+
+    <p class="text-primary">Hello World</p>
+    <p class="text-success">Hello World</p>
+    <p class="text-primary">Hello World</p>
+    <p class="text-warning">Hello World</p>
+    <p class="text-danger">Hello World</p>
+    <p class="text-secondary">Hello World</p>
+
+    <p class="bg-primary text-light"> Hello World </p>  
+    <div class="alert alert-success" role="alert"> Hello World </div>
+    <div class="alert alert-primary" role="alert"> Hello World </div>
+    <div class="alert alert-warning" role="alert"> Hello World </div>
+    <div class="alert alert-danger" role="alert"> Hello World </div>
+    <p class="text-default">Hello World</p>
+
+    <button class ="btn btn-light">Link</button>
+    <button class ="btn btn-light">Button</button>
+    <button class ="btn btn-light">Submit</button>
+    <button class ="btn btn-light">Default</button>
+    <button class ="btn btn-primary">Primary</button>
+    <button class ="btn btn-success">Success</button>
+    <button class ="btn btn-info">Info</button>
+    <button class ="btn text-light btn-warning">Warning</button>
+    <button class ="btn btn-danger">Danger</button>
+    <button type="button" class="btn btn-link">Link</button>
+
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+
+     </p>
+  </body>
+</html>
+
+    
